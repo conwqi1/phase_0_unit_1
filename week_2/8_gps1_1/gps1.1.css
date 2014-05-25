@@ -1,1 +1,29 @@
 /* include your css here */
+ header {
+        text-align:center;
+        width:50em;
+        height:10em;
+        border:1px solid black;
+        }
+      footer {
+        margin-top:40em;
+        width:50em;
+        height:10em;
+        border:1px solid black;
+        }
+      #side{
+        position:relative;
+        float:left;
+        width:10em;
+        height:40em;
+        border:1px solid black;
+      }
+      #body{
+        margin-left:10em;
+        position:absolute;
+        float:right;
+        width:40em;
+        height:40em;
+        border:1px solid black;
+         }
+        
