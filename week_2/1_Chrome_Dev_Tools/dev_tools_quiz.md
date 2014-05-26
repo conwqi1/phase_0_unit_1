@@ -1,7 +1,8 @@
 #### Include an inline screenshot of your codeschool's points from the profile page:
 
 <!-- Modify the Markdown to include your answers. Don't delete the questions! -->
-
+Below is the link to the screen shot
+https://docs.google.com/drawings/d/1RQjQaUfvjlbBl0ED5dHDiu-ht0Y3xK_bQP9gyIqJj7M/edit?usp=sharing
 ##QUIZ
 * Explain which tabs support the following actions and how.
   * Realtime editing of HTML and CSS 
