@@ -32,8 +32,14 @@
 
 // this.attackNearbyEnemy();
 
-3.Drink Me
-
+// 3.Drink Me
+// this.moveRight();
+// this.attackNearbyEnemy();
+// this.moveRight();
+// this.moveDown();
+// this.moveUp();
+// this.moveRight();
+// this.attackNearbyEnemy();
  
  
  
