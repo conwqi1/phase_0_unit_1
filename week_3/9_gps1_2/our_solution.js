@@ -1,8 +1,8 @@
 // GPS 1.2 - JavaScript
 
 // YOUR FULL NAMES:
-//  1.
-//  2.
+//  1.Wuang Qin
+//  2.jesson foo
 
 
 // 0. "YOU SIGNED... WHO?!"
