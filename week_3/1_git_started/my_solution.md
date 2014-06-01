@@ -4,6 +4,7 @@ Define the following commands and describe how they work/what they do.
 
 #### add
 <!-- Your defnition here -->
+let git know the current directory is the current version we want to save
 
 #### branch
 <!-- Your defnition here -->
@@ -13,10 +14,10 @@ Define the following commands and describe how they work/what they do.
 
 #### clone
 <!-- Your defnition here -->
-
+copy the remote dirctory and save it to local.
 #### commit
 <!-- Your defnition here -->
-
+save the file just added to git
 #### fetch
 <!-- Your defnition here -->
 
