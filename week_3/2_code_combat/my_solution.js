@@ -162,7 +162,14 @@
 // this.attackXY(49, 51);
  
  
- 
+// What is this referring to? Think programming-wise rather than in the terms of the game.
+// This referring to the object we were commanding in short. http://stackoverflow.com/questions/3127429/javascript-this-keyword
+// gives a good explanation
+// What does the () do in JavaScript?
+// used as a placeholder for function parameters
+// What is the point of the semicolons?
+// indicate the end of a statement
  
 // Reflection:
 // Write your reflection here.
+// This exercise basically gives a sence of how to refer to objects in js, and the basic fuction calls, and parameter.
