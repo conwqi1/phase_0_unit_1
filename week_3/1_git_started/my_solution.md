@@ -50,5 +50,6 @@ it show the status of the working directory. Use it to see if anything has been 
 - git fetch => git checkout brachname =>git merge branchname
 - Commit locally
 - git add filename =>git commit -m 'comment'
+
 ## Release 5: Reflection
 The branching and rebase was a bit confusing to me. cherry-pick is a really easy commend to add commits to different braches. Generally, the https://www.youtube.com/watch?v=XogN0Q4sb9o videos and http://gitref.org/ are two good resources to learn more about git.
