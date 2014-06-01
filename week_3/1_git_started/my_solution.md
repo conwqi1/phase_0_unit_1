@@ -20,7 +20,7 @@ copy the remote dirctory and save it to local.
 save the file just added to git
 #### fetch
 <!-- Your defnition here -->
-
+update the local remote tracking branch with the remote branch
 #### log
 <!-- Your defnition here -->
 
@@ -32,7 +32,7 @@ save the file just added to git
 
 #### push
 <!-- Your defnition here -->
-
+push the local repository to the remote repository.
 #### reset
 <!-- Your defnition here -->
 
