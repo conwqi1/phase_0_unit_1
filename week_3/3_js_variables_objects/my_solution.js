@@ -4,16 +4,19 @@
 
 
 // Pseudocode
-// 
-// 
-// 
-// 
+// 1.create secreteNumber with value 7
+// 2.create password of string type with value "just open the door"
+// 3.create allowedIn of boolean type with default value of false
+// 4. creat array with four elemments. 
 
 
 // __________________________________________
 // Write your code below.
 
-
+var secretNumber = 7;
+var password = "just open the door";
+var allowedIn = false;
+var members = ["John", , , "Mary"];
 
 
 
@@ -28,8 +31,8 @@
 
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
-// 
-// 
+// In this section, it wos great to get a taste how to write the testcase for the code. 
+// The testcase below was straightforward， but it offered a good example for testing.
 // 
 // 
 // 
